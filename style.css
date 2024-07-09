@@ -1,0 +1,110 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+/* font family */
+
+.azeret-mono-font {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+/* nav style */
+
+.nav-header{
+    display: flex;
+    margin-left: 150px;
+    margin-right: 150px;
+    text-decoration: none;
+    justify-content: space-between;
+}
+
+.name{
+    color: rgb(13, 19, 33);
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 33px;
+    text-align: left;
+    margin-top: 50px;
+}
+
+.download-Resume{
+    color: rgb(13, 19, 33);
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    text-align: center; 
+    text-decoration: none;  
+    padding: ;
+    border: 1px solid rgb(13, 19, 33);
+    border-radius: 8px;
+    opacity: 0.8;
+    padding: 17px 24px 17px 24px;
+    margin-top: 38px;
+    margin-bottom: 38px;
+} 
+
+/* fast part design */
+
+.about-me{
+position: absolute;
+width: 1901px;
+height: 850px;
+left: 0;
+right: 0;
+top: 131px;
+bottom: 4462px;
+background-image: url(assets/Hero-bg.png);
+}
+
+.middle-items{
+   margin: 26px 221px;
+   height: 795px;
+   width: auto;
+   text-align: center;
+}
+
+.middle-items img{
+  margin-top: 65px;
+  height: 300px;
+  width: auto;
+}
+
+.middle-items h1{
+ color: rgb(13, 19, 33);
+ font-size: 65px;
+ font-weight: 800;
+line-height: 68px;
+margin: 24px 0px;
+margin-bottom: 50px;
+}
+
+.middle-items p{
+color: rgb(13, 19, 33);
+font-size: 24px;
+font-weight: 400;
+line-height: 25px;
+margin: 30px 70px;
+margin-bottom: 70px;
+}
+
+.middle-items button{
+color: rgb(255, 255, 255);
+font-size: 20px;
+font-weight: 600;
+line-height: 50px;
+border-radius: 8px;
+background: rgb(13, 19, 33);
+padding: 10px 20px;
+}
+
+/* design "Why development" */
+
+
+
+
+
