@@ -332,4 +332,80 @@ margin-bottom: 35px;
 
 }
 
-    
+
+/* support part style */
+.support-part{
+    margin-top: 1100px;
+    margin-left: 190px;
+    margin-right: 190px;
+    height: 417px;
+    width: 1550px;
+    background-image: url(assets/handshake.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.support-titel{
+ color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 42px;
+font-weight: 700;
+text-align: center;
+}
+
+.support-box-style{
+    padding: 84px 63px;
+}
+
+.feedback-p{
+color: rgb(255, 255, 255);
+font-size: 15px;
+font-weight: 400;
+text-align: center;
+margin-top: 15px;
+margin: 15px 100px 15px 100px;
+}
+
+#comment-one{
+    display: flex;
+   align-items: center;
+}
+
+
+label{
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.button-2{
+    width: 120px;
+    height: 57px;
+ border-radius: 8px;
+ background: rgb(255, 255, 255);
+}
+
+
+/* footer style here */
+.footer-o{
+    height: 130px;
+    width: auto;
+    border:2px solid white;
+    border-radius: 21px;
+    background: rgba(13, 19, 33, 0.03);
+}
+
+.footer-in-box{
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    margin: 50px 100px;
+}
+
+#commnet-box{
+ width: 450px;
+height: 57px;
+ border-radius: 15px;
+ margin: 0 0 0 0;
+ background: rgb(255, 255, 255);
+}
