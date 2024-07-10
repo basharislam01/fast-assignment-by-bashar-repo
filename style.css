@@ -30,22 +30,21 @@
     line-height: 33px;
     text-align: left;
     margin-top: 50px;
-}
+}  
+
 
 .download-Resume{
+    border: 1px solid rgb(13, 19, 33);
     color: rgb(13, 19, 33);
     font-size: 20px;
-    font-weight: 600;
-    line-height: 23px;
-    text-align: center; 
-    text-decoration: none;  
-    padding: ;
-    border: 1px solid rgb(13, 19, 33);
-    border-radius: 8px;
-    opacity: 0.8;
     padding: 17px 24px 17px 24px;
-    margin-top: 38px;
+    text-align: center; 
+    text-decoration: none;
     margin-bottom: 38px;
+    opacity: 0.8;
+    
+    margin-top: 38px;
+    border-radius: 8px;
 } 
 
 /* fast part design */
@@ -69,27 +68,30 @@ background-image: url(assets/Hero-bg.png);
 }
 
 .middle-items img{
-  margin-top: 65px;
+  margin-top: 40px;
   height: 300px;
   width: auto;
 }
 
 .middle-items h1{
  color: rgb(13, 19, 33);
- font-size: 65px;
+ font-size: 40px;
  font-weight: 800;
 line-height: 68px;
-margin: 24px 0px;
+margin: 24px 35px;
 margin-bottom: 50px;
+position: center;
 }
 
 .middle-items p{
 color: rgb(13, 19, 33);
 font-size: 24px;
 font-weight: 400;
-line-height: 25px;
-margin: 30px 70px;
-margin-bottom: 70px;
+margin: 30px 100px;
+margin-bottom: 60px;
+opacity: 0.7;
+text-align: center;
+
 }
 
 .middle-items button{
@@ -104,7 +106,169 @@ padding: 10px 20px;
 
 /* design "Why development" */
 
+.about-development{
+    margin: 900px auto 90px;
+    height: 1555px ;
+    width: 1516px ;
+background: rgba(13, 19, 33, 0.03);
+}
+
+.in-items{
+    margin:106px 129px;
+    height: 1443px;
+    
+}
+
+.fast-box-titel{
+    color: rgb(13, 19, 33);
+    font-size: 43px;
+    font-weight: 800;
+    line-height: 50px;
+    text-align: center;
+    padding-top: 100px;
+}
 
 
+/* share style */
+
+.share-font{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+}
+
+.share-font-tow{
+opacity: 0.8;
+font-size: 30px;
+font-weight: 700;
+margin: 21px 0px;
+}
+
+.bottom-design{
+box-sizing: border-box;
+border: 2px solid rgb(13, 19, 33 );
+opacity: 0.7;
+margin: 32px 0px;
+padding: 10px 20px;
+color: rgb(13, 19, 33);
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+
+}
 
 
+.box-display{
+    display: flex;
+}
+
+/* box titel design */
+.descrition{
+    margin: 50px 62px 0px 62px ;
+    text-align: center;
+}
+
+
+/* box item design */
+.box-item-1{
+    width: 1130px;
+    height: 320px;
+    margin:63px ;
+    background-color: white;
+}
+
+.fast-titel{
+    width: 70%;
+    position: left;
+
+}
+
+.pragraph-one{
+position: left;
+margin-top: 50px;
+margin-right: 250px;
+margin-bottom: 40px;
+}
+
+.image-laiyer-one{
+    height: 100%;
+    position: right;
+}
+/* box two style */
+.box-item-2{
+    width: 1130px;
+    height: 320px;
+    margin:63px ;
+    background-color: white;
+    display: flex;
+
+}
+
+.image-group-3{
+    height: 100%;
+    width: 200%;
+}
+
+.develop-box-two{
+    margin-left: 200px;
+    margin-right: 100px;
+}
+
+/* box three style */
+
+.box-item-three{
+    width: 1130px;
+    height: 320px;
+    margin:63px ;
+    background-color: white;
+    display: flex;
+}
+
+.group-4{
+    height: 100%;
+   
+}
+
+.part-three{
+    margin-right: 200px;
+}
+/* My Inspiration design */
+.my-inspiration{
+    height: 1000px;
+    width: auto;
+    margin: 10px 190px ;
+    border:none;
+    
+}
+
+
+.Inspiration{color: rgb(13, 19, 33);
+    font-size: 43px;
+    font-weight: 800;
+    line-height: 50px;
+    text-align: center;
+    padding-top: 100px;}
+
+
+    .Inspiration-pragraph{
+      text-align: center;
+      margin: 50px 150px;
+      padding: 0px 200px;
+    }
+#youtube-video{
+    height: 700px;
+    width:1515px;
+    border: 2px solid black; 
+    border-radius: 10px; 
+}
+
+.video-position{
+    padding: 28px;
+}
+
+   
+        
+    
