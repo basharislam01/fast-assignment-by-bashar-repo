@@ -333,6 +333,15 @@ margin-bottom: 35px;
 }
 
 
+/* next terget part style start */
+.next-terget-box{
+    height: 850px;
+    width: 1550px;
+    border: 2px solid red;
+}
+
+/* next terget part style end */
+
 /* support part style */
 .support-part{
     margin-top: 1100px;
